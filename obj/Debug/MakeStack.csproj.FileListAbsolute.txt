@@ -1,0 +1,20 @@
+C:\Users\Guardian\source\repos\MakeStack\obj\Debug\MakeStack.csprojAssemblyReference.cache
+C:\Users\Guardian\source\repos\MakeStack\obj\Debug\MakeStack.Form1.resources
+C:\Users\Guardian\source\repos\MakeStack\obj\Debug\MakeStack.Properties.Resources.resources
+C:\Users\Guardian\source\repos\MakeStack\obj\Debug\MakeStack.csproj.GenerateResource.cache
+C:\Users\Guardian\source\repos\MakeStack\obj\Debug\MakeStack.csproj.CoreCompileInputs.cache
+C:\Users\Guardian\source\repos\MakeStack\bin\Debug\MakeStack.exe.config
+C:\Users\Guardian\source\repos\MakeStack\bin\Debug\MakeStack.exe
+C:\Users\Guardian\source\repos\MakeStack\bin\Debug\MakeStack.pdb
+C:\Users\Guardian\source\repos\MakeStack\obj\Debug\MakeStack.exe
+C:\Users\Guardian\source\repos\MakeStack\obj\Debug\MakeStack.pdb
+C:\Users\1qazw\OneDrive\Рабочий стол\MakeStack (1)\MakeStack\bin\Debug\MakeStack.exe.config
+C:\Users\1qazw\OneDrive\Рабочий стол\MakeStack (1)\MakeStack\bin\Debug\MakeStack.exe
+C:\Users\1qazw\OneDrive\Рабочий стол\MakeStack (1)\MakeStack\bin\Debug\MakeStack.pdb
+C:\Users\1qazw\OneDrive\Рабочий стол\MakeStack (1)\MakeStack\obj\Debug\MakeStack.csprojAssemblyReference.cache
+C:\Users\1qazw\OneDrive\Рабочий стол\MakeStack (1)\MakeStack\obj\Debug\MakeStack.Form1.resources
+C:\Users\1qazw\OneDrive\Рабочий стол\MakeStack (1)\MakeStack\obj\Debug\MakeStack.Properties.Resources.resources
+C:\Users\1qazw\OneDrive\Рабочий стол\MakeStack (1)\MakeStack\obj\Debug\MakeStack.csproj.GenerateResource.cache
+C:\Users\1qazw\OneDrive\Рабочий стол\MakeStack (1)\MakeStack\obj\Debug\MakeStack.csproj.CoreCompileInputs.cache
+C:\Users\1qazw\OneDrive\Рабочий стол\MakeStack (1)\MakeStack\obj\Debug\MakeStack.exe
+C:\Users\1qazw\OneDrive\Рабочий стол\MakeStack (1)\MakeStack\obj\Debug\MakeStack.pdb
