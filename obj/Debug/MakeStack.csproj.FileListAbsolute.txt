@@ -18,3 +18,13 @@ C:\Users\1qazw\OneDrive\Рабочий стол\MakeStack (1)\MakeStack\obj\Debu
 C:\Users\1qazw\OneDrive\Рабочий стол\MakeStack (1)\MakeStack\obj\Debug\MakeStack.csproj.CoreCompileInputs.cache
 C:\Users\1qazw\OneDrive\Рабочий стол\MakeStack (1)\MakeStack\obj\Debug\MakeStack.exe
 C:\Users\1qazw\OneDrive\Рабочий стол\MakeStack (1)\MakeStack\obj\Debug\MakeStack.pdb
+C:\Users\1qazw\OneDrive\Рабочий стол\gau_s\bin\Debug\MakeStack.exe.config
+C:\Users\1qazw\OneDrive\Рабочий стол\gau_s\bin\Debug\MakeStack.exe
+C:\Users\1qazw\OneDrive\Рабочий стол\gau_s\bin\Debug\MakeStack.pdb
+C:\Users\1qazw\OneDrive\Рабочий стол\gau_s\obj\Debug\MakeStack.csprojAssemblyReference.cache
+C:\Users\1qazw\OneDrive\Рабочий стол\gau_s\obj\Debug\MakeStack.Form1.resources
+C:\Users\1qazw\OneDrive\Рабочий стол\gau_s\obj\Debug\MakeStack.Properties.Resources.resources
+C:\Users\1qazw\OneDrive\Рабочий стол\gau_s\obj\Debug\MakeStack.csproj.GenerateResource.cache
+C:\Users\1qazw\OneDrive\Рабочий стол\gau_s\obj\Debug\MakeStack.csproj.CoreCompileInputs.cache
+C:\Users\1qazw\OneDrive\Рабочий стол\gau_s\obj\Debug\MakeStack.exe
+C:\Users\1qazw\OneDrive\Рабочий стол\gau_s\obj\Debug\MakeStack.pdb
