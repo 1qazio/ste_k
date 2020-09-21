@@ -17,7 +17,7 @@ namespace MakeStack
             public int Capacity;
             public int Pointer;
             public int[] Data;
-            public int Max() 
+            public int Max() //мин находить по другому 
             {
                 return Data.Max();
             }
@@ -58,7 +58,7 @@ namespace MakeStack
                 return;
             }
             stack.Push(int.Parse(tb_input.Text));
-            lb_stack.Items.Clear();
+            lb_stack.Items.Clear();   //слеар нету 
             for(int i = 0; i < stack.Pointer; i++)
             {
                 lb_stack.Items.Add(stack.Data[i]);
@@ -97,6 +97,20 @@ namespace MakeStack
         private void button2_Click(object sender, EventArgs e)
         {
             textBox1.Text += stack.Min().ToString() + "\r\n";
+        }
+        private void label1_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            textBox1.Text += stack.Max() + stack.Min() + "\r\n";
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            textBox1.Text += stack.Max() - stack.Min() + "\r\n";
         }
     }
 }
