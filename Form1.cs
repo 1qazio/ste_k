@@ -12,7 +12,7 @@ namespace MakeStack
 {
     public partial class Form1 : Form
     {
-        class Stack
+            class Stack
         {
             public int Capacity;
             public int Pointer;
@@ -27,9 +27,11 @@ namespace MakeStack
             }
             public Stack(int maxSize)
             {
-                Capacity = maxSize;
-                Data = new int[maxSize];
-                Pointer = 0;
+                {
+                    Capacity = maxSize;
+                    Data = new int[maxSize];
+                    Pointer = 0;
+                }
             }
             
             public void Push(int str)
@@ -41,15 +43,17 @@ namespace MakeStack
                 return Data[--Pointer];
             }
         }
+
         public Form1()
         {
             InitializeComponent();
         }
         Stack stack;
+         public int chislo;
+
         private void Form1_Load(object sender, EventArgs e)
         {
         }
-
         private void btn_add_item_Click(object sender, EventArgs e)
         {
             if(tb_input.TextLength == 0)
@@ -92,25 +96,50 @@ namespace MakeStack
         private void button1_Click(object sender, EventArgs e)
         {
             textBox1.Text += stack.Max().ToString()+ "\r\n";
+           // MessageBox.Show("ок", "ок?", MessageBoxButtons.OK);
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             textBox1.Text += stack.Min().ToString() + "\r\n";
+            //MessageBox.Show("ок", "ок?", MessageBoxButtons.OK);
         }
         private void label1_Click(object sender, EventArgs e)
         {
             this.Close();
+            MessageBox.Show("ок", "ок?", MessageBoxButtons.OK);
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
             textBox1.Text += stack.Max() + stack.Min() + "\r\n";
+           // MessageBox.Show("ок", "ок?", MessageBoxButtons.OK);
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
             textBox1.Text += stack.Max() - stack.Min() + "\r\n";
+           // MessageBox.Show("ок", "ок?", MessageBoxButtons.OK);
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tb_size_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tb_input_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox2_Enter(object sender, EventArgs e)
+        {
+
         }
     }
 }
